@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934593122586",
+    "project_id": "mobile-apartments-4715e",
+    "storage_bucket": "mobile-apartments-4715e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934593122586:android:b4c343b30e4ed14358dca3",
+        "android_client_info": {
+          "package_name": "com.keanans.mobile_apartment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934593122586-eih5ntkam67vfuonf9tduavq0eaglg3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMbb9AyCi8D6-sHz3OU_KRsC2ssZnTdzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934593122586-eih5ntkam67vfuonf9tduavq0eaglg3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
